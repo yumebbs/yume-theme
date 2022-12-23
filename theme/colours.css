@@ -324,6 +324,8 @@ Colours and backgrounds for content.css
 
 ul.forums {
 	background-color: #000000;
+	border-left: 1px solid #c49fac;
+	border-right: 1px solid #c49fac;
 }
 
 ul.topiclist li {
