@@ -397,6 +397,7 @@ input.button1:focus, input.button2:focus, input.button3:focus {
 	float: left;
 	height: 24px;
 	padding: 3px;
+	padding-left: 8px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
