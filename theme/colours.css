@@ -87,6 +87,10 @@ a:hover, a:focus { color: #c49fac; }
 	background-color: #c49fac;
 }
 
+.site-description h1 {
+	color: #fff;
+}
+
 .forumbg, .forabg {
 	background-color: #c49fac;
 }
