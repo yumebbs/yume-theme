@@ -164,9 +164,13 @@
 
 	.logo {
 		/* change display value to inline-block to show logo */
-		display: none;
+		display: inline-block;
 		float: none;
 		padding: 10px;
+	}
+
+	.site_logo {
+		transform: none;
 	}
 
 	.site-description h1, .site-description p {
@@ -176,7 +180,7 @@
 		line-height: 1.2em;
 		overflow: hidden;
 		text-overflow: ellipsis;
-		display: inline-block;
+		display: none;
 	}
 
 	.site-description p, .search-header {
