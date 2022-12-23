@@ -84,10 +84,10 @@ a:hover, a:focus { color: #c49fac; }
 }
 
 .headerbar {
-	background-color: #c49fac;
-	background: -moz-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(65,29,49,1) 100%);
-	background: -webkit-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(65,29,49,1) 100%);
-	background: linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(65,29,49,1) 100%);
+	background: rgb(196,159,172);
+	background: -moz-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(198,81,151,1) 100%);
+	background: -webkit-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(198,81,151,1) 100%);
+	background: linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(198,81,151,1) 100%);
 }
 
 .site-description h1 {
@@ -95,10 +95,10 @@ a:hover, a:focus { color: #c49fac; }
 }
 
 .forumbg, .forabg {
-	background-color: #c49fac;
-	background: -moz-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(65,29,49,1) 100%);
-	background: -webkit-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(65,29,49,1) 100%);
-	background: linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(65,29,49,1) 100%);
+	background: rgb(196,159,172);
+	background: -moz-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(198,81,151,1) 100%);
+	background: -webkit-linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(198,81,151,1) 100%);
+	background: linear-gradient(180deg, rgba(196,159,172,1) 0%, rgba(198,81,151,1) 100%);
 }
 
 .navbar {
