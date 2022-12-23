@@ -297,8 +297,9 @@ dl.details dd {
 li.reported:hover {
 	background-color: #000000 !important;
 }
+
 .sticky, .announce {
-	/* you can add a background for stickies and announcements*/
+	background-color: #411d31;
 }
 
 div.rules {
