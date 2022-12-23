@@ -104,7 +104,7 @@ li.header dt, li.header dd {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	font-size: 1em;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	text-transform: uppercase;
 }
 
@@ -254,7 +254,7 @@ dd.option {
 	margin-bottom: 0.3em !important;
 	text-transform: none;
 	border: none;
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	line-height: 125%;
 }
 
@@ -330,7 +330,7 @@ dd.option {
 	min-height: 3em;
 	overflow: hidden;
 	line-height: 1.4em;
-	font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-size: 1em;
 	padding-bottom: 1px;
 }
@@ -355,7 +355,7 @@ dd.option {
 }
 
 .content p {
-	font-family: "Lucida Grande", "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-size: 1.2em;
 	margin-bottom: 1em;
 	line-height: 1.4em;
@@ -373,7 +373,7 @@ dd.option {
 }
 
 dl.faq {
-	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-size: 1.1em;
 	margin-top: 1em;
 	margin-bottom: 2em;
@@ -405,7 +405,7 @@ dl.faq dt {
 p.author {
 	margin-bottom: 0.6em;
 	padding: 0 0 5px 0;
-	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-size: 1em;
 	line-height: 1.2em;
 	clear: both;
@@ -445,7 +445,7 @@ dd .signature {
 
 /* Post noticies */
 .notice {
-	font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	width: auto;
 	margin-top: 1.5em;
 	padding-top: 0.2em;
@@ -554,7 +554,7 @@ blockquote .codebox {
 }
 
 .attachbox dt {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	text-transform: uppercase;
 }
 
@@ -604,7 +604,7 @@ div.inline-attachment p {
 }
 
 dl.file {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	display: block;
 }
 
@@ -613,7 +613,7 @@ dl.file dt {
 	margin: 0;
 	padding: 0;
 	font-weight: bold;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 }
 
 dl.file dd {
@@ -629,7 +629,7 @@ dl.thumbnail img {
 
 dl.thumbnail dd {
 	font-style: italic;
-	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 }
 
 .attachbox dl.thumbnail dd {
@@ -643,7 +643,7 @@ dl.thumbnail dt a:hover img {
 /* Post poll styles
 ----------------------------------------*/
 fieldset.polls {
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 }
 
 fieldset.polls dl {
@@ -687,7 +687,7 @@ fieldset.polls dd input {
 
 fieldset.polls dd div {
 	text-align: right;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-weight: bold;
 	padding: 2px 2px 0 2px;
 	overflow: visible;

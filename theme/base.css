@@ -14,6 +14,10 @@
 	box-sizing: border-box;
 }*/
 
+:root {
+	--os-font-stack: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;
+}
+
 /* Define your base font-size here; most elements will inherit this. _NO__DOTCOMMA__AFTER__*/
 html {
 	font-size: 1em; /* Assuming 16px... */
@@ -22,7 +26,7 @@ html {
 }
 
 body {
-	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	color: #333333;
 	background-color: #ffffff;
 }

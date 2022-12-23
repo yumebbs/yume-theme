@@ -7,7 +7,7 @@ html {
 }
 
 body {
-	font-family: Verdana, Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-size: 10px;
 	line-height: normal;
 	margin: 0;
@@ -18,7 +18,7 @@ body {
 
 h1 {
 	/* Forum name */
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	margin-right: 200px;
 	margin-top: 15px;
 	font-weight: bold;
@@ -27,7 +27,7 @@ h1 {
 
 h2 {
 	/* Forum header titles */
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-weight: normal;
 	font-size: 2em;
 	margin: 0.8em 0 0.2em 0;
@@ -39,7 +39,7 @@ h2.solo {
 
 h3 {
 	/* Sub-headers (also used as post headers, but defined later) */
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-weight: bold;
 	text-transform: uppercase;
 	border-bottom: 1px solid transparent;
@@ -51,7 +51,7 @@ h3 {
 
 h4 {
 	/* Forum and topic list titles */
-	font-family: "Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-size: 1.3em;
 }
 
@@ -854,7 +854,7 @@ fieldset.fields1 dl.pmlist dd.recipients {
 	display: inline-block;
 	font-size: 13px;
 	font-weight: normal;
-	font-family: "Open Sans", "Droid Sans", Verdana, Arial, Helvetica;
+	font-family: "Inter", var(--os-font-stack);
 	line-height: 1.4;
 	text-align: center;
 	white-space: nowrap;
@@ -1132,7 +1132,7 @@ ul.linklist:after,
 
 .dropdown-extended .header {
 	padding: 0 10px;
-	font-family: Arial, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-weight: bold;
 	text-align: left;
 	text-shadow: 1px 1px 1px white;
@@ -1215,7 +1215,7 @@ ul.linklist:after,
 }
 
 .notification_list p.notifications_title {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-family: "Inter", var(--os-font-stack);
 	font-size: 1.2em !important;
 }
 
