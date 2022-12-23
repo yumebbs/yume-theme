@@ -176,6 +176,7 @@
 		line-height: 1.2em;
 		overflow: hidden;
 		text-overflow: ellipsis;
+		display: inline-block;
 	}
 
 	.site-description p, .search-header {
