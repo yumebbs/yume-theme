@@ -96,11 +96,11 @@ a:hover, a:focus { color: #c49fac; }
 }
 
 .navbar {
-	background-color: #000000;
+	background-color: #411d31;
 }
 
 .panel {
-	background-color: #000000;
+	background-color: #411d31;
 	color: #c49fac;
 }
 
@@ -114,23 +114,23 @@ a:hover, a:focus { color: #c49fac; }
 }
 
 .bg1 {
-	background-color: #000000;
+	background-color: #411d31;
 }
 
 table.zebra-list tr:nth-child(odd) td, ul.zebra-list li:nth-child(odd) {
-	background-color: #000000;
+	background-color: #411d31;
 }
 
 .bg2 {
-	background-color: #000000;
+	background-color: #402751;
 }
 
 table.zebra-list tr:nth-child(even) td, ul.zebra-list li:nth-child(even) {
-	background-color: #000000;
+	background-color: #402751;
 }
 
 .bg3 {
-	background-color: #000000;
+	background-color: #411d31;
 }
 
 .ucprowbg {
