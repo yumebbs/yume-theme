@@ -3,6 +3,10 @@
 Colours and backgrounds for common.css
 -------------------------------------------------------------- */
 
+:root {
+	color-scheme: dark;
+}
+
 html, body {
 	color: #c49fac;
 	background-color: #000000;
