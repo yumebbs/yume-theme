@@ -1,2 +1,14 @@
-/* Online image */
-.online { background-image: url("./icon_user_online.svg"); }
+.online::before {
+	background-image: url("./icon_user_online.svg");
+	content: "";
+	width: 58px;
+	height: 58px;
+	position:absolute;
+	top: 0;
+	right: 0;
+	z-index: 999999;
+}
+
+.online {
+	position: relative;
+}
