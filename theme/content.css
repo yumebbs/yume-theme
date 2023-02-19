@@ -716,6 +716,7 @@ fieldset.polls dd div {
 	float: right;
 	display: inline;
 	font-size: 12px;
+	text-align: left !important;
 }
 
 .postprofile dd, .postprofile dt {
@@ -748,8 +749,9 @@ fieldset.polls dd div {
 
 .postprofile .avatar {
 	display: block;
-	float: left;
+	float: left !important;
 	max-width: 100%;
+	margin-bottom: 5px;
 }
 
 .postprofile .avatar img {

@@ -1,15 +1,1 @@
-.online::before {
-	background-image: url("./icon_user_online.svg");
-	content: "";
-	width: 58px;
-	height: 58px;
-	position:absolute;
-	top: 0;
-	right: 0;
-	z-index: 999999;
-}
-
-.online {
-	position: relative;
-	background-image: none;
-}
+.post.online, #viewprofile .online { background-image: none; }
